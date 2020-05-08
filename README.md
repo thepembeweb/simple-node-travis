@@ -2,8 +2,8 @@
 
 > This project showcases a bare-bones NodeJS application used for demoing Docker builds. Set up specifically such that Travis CI can be built using environment variables.
 
-![](https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png)
 ![](Travis_CI_Logo.png)
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
