@@ -1,4 +1,4 @@
-﻿# Simple node travis application
+﻿# Simple Node Travis application
 
 > This project showcases a bare-bones NodeJS application used for demoing Docker builds. Set up specifically such that Travis CI can be built using environment variables.
 
