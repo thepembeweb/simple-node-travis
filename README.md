@@ -48,7 +48,7 @@ $ npm start
 
 ## Authors
 
-* **[Pemberai Sweto](https://github.com/thepembeweb)** - *Initial work* - [Simple node travis application](https://github.com/thepembeweb/simple-node-travis)
+* **[Pemberai Sweto](https://github.com/thepembeweb)** - *Initial work* - [Simple Node Travis application](https://github.com/thepembeweb/simple-node-travis)
 
 ## License
 
