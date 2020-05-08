@@ -6,7 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepembeweb/simple-node-travis.git"
+  },
   "keywords": [],
-  "author": "",
-  "license": "MIT"
+  "author": "Pemberai Sweto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thepembeweb/simple-node-travis/issues"
+  },
+  "homepage": "https://github.com/thepembeweb/simple-node-travis#readme"
 }
